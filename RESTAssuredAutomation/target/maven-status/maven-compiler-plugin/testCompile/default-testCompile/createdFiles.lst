@@ -1,0 +1,7 @@
+tests\TestsExamples.class
+tests\PutPatchDeleteExamples.class
+tests\TestsExamples2.class
+tests\TestsOnLocalAPI.class
+tests\GetAndPostExamples.class
+tests\JSONSchemaValidator.class
+tests\SOAPXMLRequest.class
